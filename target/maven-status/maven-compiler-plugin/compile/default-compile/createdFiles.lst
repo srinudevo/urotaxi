@@ -1,0 +1,10 @@
+com\urotaxi\repositories\ContactUsRepository.class
+com\urotaxi\UrotaxiApplication.class
+com\urotaxi\repositories\RideRepository.class
+com\urotaxi\service\RideService.class
+com\urotaxi\form\RideForm.class
+com\urotaxi\form\ContactUsForm.class
+com\urotaxi\entities\Ride.class
+com\urotaxi\service\ContactUsService.class
+com\urotaxi\entities\ContactUs.class
+com\urotaxi\controller\HomeController.class
